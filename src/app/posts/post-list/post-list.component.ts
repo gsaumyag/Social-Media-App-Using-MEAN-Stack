@@ -18,4 +18,5 @@ export class PostListComponent{
       title: 'Third Post',content: 'This is the third post\'s content'
     }
   ];
+  //posts = [];
 }
